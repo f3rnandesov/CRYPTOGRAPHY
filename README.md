@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwYmY5MmVkYTczOWRhZTVhNzJjYTYwMDMwYTczM2I3NzI3YjYxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w0r0Qh2X5FjC83p1Xb/giphy.gif" width="600px" alt="Cryptography GIF: Code and Lock">
-
+  
   <h1 align="center">🔐 Fundamentos de Criptografia</h1>
 
   <p align="center">
@@ -53,19 +52,3 @@ Os exemplos práticos são desenvolvidos principalmente em Python, utilizando bi
 ![PyCryptodome](https://img.shields.io/badge/PyCryptodome-464646?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Estrutura do Repositório
-
-O conteúdo está organizado para facilitar o aprendizado sequencial:
-
-```bash
-CRYPTOGRAPHY/
-├── 📂 01_simetrica/      # Implementações de AES (Ex: ECB, CBC)
-├── 📂 02_assimetrica/    # Exemplos de RSA e ECC (Geração de Chaves)
-├── 📂 03_funcoes_hash/   # Calculando e comparando hashes (SHA256, etc.)
-├── 📂 04_assinaturas/    # Criando e verificando assinaturas digitais
-├── 📂 05_protocolos/     # Exemplos conceituais de TLS/Handshake
-├── 📓 README.md
-└── 📜 requirements.txt
