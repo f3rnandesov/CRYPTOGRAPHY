@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center">🔐 Fundamentos de Criptografia</h1>
+  <h1 align="center">Fundamentos de Criptografia</h1>
 
   <p align="center">
     <strong>Implementações Práticas e Conceitos de Segurança da Informação</strong>
@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 Sobre o Repositório
+## Sobre o Repositório
 
 Este repositório serve como um guia prático e teórico para a **Criptografia**, a espinha dorsal da Segurança da Informação.
 
@@ -27,21 +27,21 @@ Exploramos os conceitos fundamentais que garantem a segurança dos dados:
 
 ---
 
-## 🔑 Tipos e Implementações
+## Tipos e Implementações
 
 O conteúdo está dividido por tipos de criptografia, com exemplos práticos em Python para cada conceito:
 
 | Categoria | Algoritmos / Conceitos | Foco Principal | Status |
 | :--- | :--- | :--- | :---: |
-| **Simétrica** | **AES** (Advanced Encryption Standard), Chaves Secretas. | Confidencialidade e Velocidade. | ✅ |
-| **Assimétrica** | **RSA, ECC** (Elliptic Curve Cryptography), Pares de Chaves (Pública/Privada). | Distribuição de Chaves e Assinaturas. | ✅ |
-| **Funções de Hash** | **SHA-256**, **MD5** (obsoleto). | Integridade e Verificação de Senhas. | ✅ |
-| **Assinaturas Digitais** | Combinação de Hash e Criptografia Assimétrica. | Autenticação e Não Repúdio. | 🚧 |
-| **Protocolos** | **TLS/SSL**, Troca de Chaves (Ex: Diffie-Hellman). | Segurança na Comunicação de Rede. | 🚧 |
+| **Simétrica** | **AES** (Advanced Encryption Standard), Chaves Secretas. | Confidencialidade e Velocidade. |  |
+| **Assimétrica** | **RSA, ECC** (Elliptic Curve Cryptography), Pares de Chaves (Pública/Privada). | Distribuição de Chaves e Assinaturas. |  |
+| **Funções de Hash** | **SHA-256**, **MD5** (obsoleto). | Integridade e Verificação de Senhas. |  |
+| **Assinaturas Digitais** | Combinação de Hash e Criptografia Assimétrica. | Autenticação e Não Repúdio. |  |
+| **Protocolos** | **TLS/SSL**, Troca de Chaves (Ex: Diffie-Hellman). | Segurança na Comunicação de Rede. |  |
 
 ---
 
-## 🐍 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 Os exemplos práticos são desenvolvidos principalmente em Python, utilizando bibliotecas robustas focadas em segurança:
 
